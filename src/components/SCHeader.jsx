@@ -1,3 +1,5 @@
+// Using styled-components to create the Header component
+
 import logo from '../assets/logo.png';
 import { styled } from 'styled-components';
 
